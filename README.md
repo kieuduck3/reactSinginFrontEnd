@@ -2,7 +2,7 @@
 
 Template này được sử dụng cho video fullstack React/Nodejs JWT
 
-Phần Back End cảu dự án (https://github.com/kieuduck3/reactSinginBackend)
+Phần Back End của dự án (https://github.com/kieuduck3/reactSinginBackend)
 
 Các bước cài đặt: (chế độ development)
 
