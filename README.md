@@ -1,6 +1,6 @@
 # React
 
-Template này được sử dụng cho video fullstack React/Nodejs JWT
+Template này được sử dụng fullstack React/Nodejs JWT
 
 Phần Back End của dự án (https://github.com/kieuduck3/reactSinginBackend/tree/main))
 
